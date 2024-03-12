@@ -1,2 +1,6 @@
-- JavaScript Developer
-- hi
+**SKILLS**
+
+-> Python
+-> SQL
+-> C++
+-> Project Management
