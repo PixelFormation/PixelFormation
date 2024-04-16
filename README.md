@@ -1,6 +1,5 @@
 **SKILLS**
-
+- C++
 - Python
 - SQL
-- C++
-- Project Management
+- Lua
